@@ -1,0 +1,413 @@
+{
+    "articulos": {
+        "maquinas":{
+            "DTF_TEXTIL": [
+                {   
+                    "id": 1,
+                    "tipo": "DTF",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora ABREGU DTF de 30 cm",
+                    "modelo": "OR-A3 Mini 330 DTF",
+                    "cabezal": "2 Cabezales EPSON ORIGINAL F1080",
+                    "descripcion": "▪ Àrea maxima de impresiòn: 30 cm<br>▪ Fàcil de operar<br>▪ Bajo costo de inversion",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/L6s0jjSW/OR-A3-Mini-330-DTF.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+
+                },
+                {   
+                    "id": 2,
+                    "tipo": "DTF",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora ABREGU DTF de 30 cm verde Pro",
+                    "modelo": "A3-DTF MACHINE",
+                    "cabezal": "2 Cabezales F1080",
+                    "descripcion": "▪ Cabezal Epson i3200<br>▪ Àrea de impresiòn 30 cm<br>▪ Fàcil de operar",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/tTZgM2LM/A3-DTF-MACHINE.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                },
+                {   
+                    "id": 3,
+                    "tipo": "DTF",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora ABREGU DTF de 60 cm",
+                    "modelo": "OR-DTF-60A",
+                    "cabezal": "2 Cabezales i3200-A1",
+                    "descripcion": "▪ Velocidad de alta resoluciòn<br>▪ Àrea de impresiòn de 60 cm",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/fywtVx3W/OR-DTF-60-A.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                },
+                {
+                    "id": 4,
+                    "tipo": "DTF",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora DTF de 60 cm verde Pro",
+                    "modelo": "CNZ A-620",
+                    "cabezal": "2 Cabezales i3200-A1",
+                    "descripcion": "▪ Rendimiento 20m/h<br>▪ Velocidad de alta resoluciòn<br>▪ Àrea de impresiòn 60 cm",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/pTjYfYXD/CNZ-A-620.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                }
+            ],
+            "UV_DTF": [
+                {   
+                    "id": 5,
+                    "tipo": "UV_DTF",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora UV DTF 30cm",
+                    "modelo": "RF-3360",
+                    "cabezal": "2 Cabezales i3200-A1",
+                    "descripcion": "▪ Sistema HOSON<br>▪ Àrea de impresiòn 33 x 60 cm<br>▪ Resoluciòn 2880 ppp",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/SNzRRVdr/RF-3360.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                },
+                {
+                    "id": 6,
+                    "tipo": "UV_DTF",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora UV DTF 42 cm Rollo a Rollo",
+                    "modelo": "T3000-UV",
+                    "cabezal": "2 cabezales de alta presiciòn",
+                    "descripcion": "▪ Velocidad : 8pasos = 10m/h<br>▪ Sotfaware Rip Maintop 6.0<br>▪ Àrea de impresiòn 60cm0",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/Nfn7XNRP/T3000-UV.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                },
+                {
+                    "id": 7,
+                    "tipo": "UV_DTF",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora UV DTF 60 X 90cm cama plana",
+                    "modelo": "CP-60-U1",
+                    "cabezal": "2 cabezales Epsom i1600-U1",
+                    "descripcion": "▪ Àrea de impresiòn 60 x 90 cm<br>▪ Imprime sobre sustratos gruesos<br>▪ Sistema anticolisión, gran velicidad de producciòn",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/K8NGVWQ0/CP-60-U1.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                },
+        
+                {
+                    "id": 8,
+                    "tipo": "UV_DTF",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora UV DTF 60 cm Rollo a Rollo",
+                    "modelo": "PREDATHOR-PRO",
+                    "cabezal": "3 cabezales Epson i3200-U1",
+                    "descripcion": "▪ Impresiòn màxima 5 capas con efecto de relieve<br>▪ Diseño riguroso de filtraciòn de tinta<br>▪ Sistema de agitaciòn de tinta",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/k5jnMhVf/PREDATHOR-PRO-UV-DTF.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                }
+            ],
+            "DTG": [
+                {
+                    "id": 9,
+                    "tipo": "DTG",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora DTG 4",
+                    "modelo": "i3200 x 4-9C",
+                    "cabezal": "4 cabezales i3200-A1",
+                    "descripcion": "▪ Gama de 9 colores intensos.<br>▪ Velocidad de impresiòn 2m para tamaño completo A3.<br>▪ Altura de cabezal de impresiòn 20 cm màximo.",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/jj87VcRr/i3200-x-4-9-C.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                },
+                {
+                    "id": 10,
+                    "tipo": "DTG",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora DTG Doble bandeja",
+                    "modelo": "DTG-i3200-AI(EPSON)",
+                    "cabezal": "2 cabezales i3200-A1",
+                    "descripcion": "▪ Resoluciòn de impresiòn màxima 2400Dpi.<br>▪ Velocidad de 1m para A4.<br>▪ Tamaño de impresiòn 30 x 40 cm.",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/HWN98YDC/DTG-i3200-AI-EPSON.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                }
+            ],
+            "IMPRESORA_SUBLIMADO": [
+                {
+                    "id": 11,
+                    "tipo": "sublimacion",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora sublimaciòn",
+                    "modelo": "WJ-740S",
+                    "cabezal": "2 Cabezales i3200-A1",
+                    "descripcion": "▪ Tamaño màximo de impresiòn 1.8m<br>▪ Velocidad de impresiòn 30 m2/h<br>▪ Color de tinta C,M,Y,K",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/W46hjnj4/WJ-740S.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                },
+                {
+                    "id": 12,
+                    "tipo": "sublimacion",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Impresora de sublimado industrial",
+                    "modelo": "PHALCON X3",
+                    "cabezal": "3 Cabezales i3200-1-A",
+                    "descripcion": "▪ Tamaño màximo de impesiòn 1.80m<br>▪ Aplicaciòn : Papel de transparencia de color<br>▪ Velocidad de impresiòn 46m2/h",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/NffVxfLC/PHALCON-X3.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                }
+            ],
+            "LASER": [
+                {
+                    "id": 13,
+                    "tipo": "DTG",
+                    "serie": "SERIE DE EPSON",
+                    "nombre": "Laser de sublimación",
+                    "modelo": "L-LTES-3D",
+                    "potencia": "250w",
+                    "cabezal" : "1 cabezal",
+                    "descripcion": "▪ Área de escaneo de la cámara 1600 mm x 800 mm<br>▪ Potencia de laser 150w.<br>▪ Velocidad cortante 0-800mm/s",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/FKvghypg/1.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf" 
+                },
+                {
+                    "id": 14,
+                    "nombre": "LASER DE 100W",
+                    "modelo": "DG-9060",
+                    "potencia": "130w-160w",
+                    "cabezal" : "",
+                    "descripcion": "▪ Velocidad de corte 0-50 m/minuto.<br>▪ Temperatura de trabajo 5% - 95.<br>▪ Voltaje de trabajo AC22V +- 10% 50HZ.",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/65fcdPJ8/DG-9060.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf" 
+                },
+                {
+                    "id": 15,
+                    "nombre": "Laser de 200W",
+                    "modelo": "LS-200W",
+                    "potencia": "200w",
+                    "cabezal" : "",
+                    "descripcion": "▪ Carácter de función 3D.<br>▪ Voltaje de trabajo AC220V 60HZ.<br>▪ Potencia total de 6000w.",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/NFrVsk51/LASER-200-W.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf" 
+                }
+            ],
+            "PLANCHAS_TRANSFER" :[
+                {
+                    "id": 16,
+                    "nombre": "PLANCHA NEUMATICA UNA BANDEJA",
+                    "modelo": "PN-01B",
+                    "bandeja": "una bandeja",
+                    "descripcion": "▪ Es una máquina para alta producción.<br>▪ Totalmente operado por aire para la transferencia de calor.<br>▪ Diseñado para una óptima eficiencia de prensado.",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/8PSCy99k/PN-01B.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf" 
+                },
+                {
+                    "id": 17,
+                    "nombre": "PLANCHA NEUMATICA DOBLE BANDEJA",
+                    "modelo": "PN-02B",
+                    "bandeja": "doble bandeja",
+                    "descripcion": "▪ 2 estaciones de trabajo<br>▪ Sistema hidràulico neumàtico<br>▪ Bandeja de 40 x 50 cm",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/JnHhgLR0/PN-02B.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf" 
+                },
+                {
+                    "id": 18,
+                    "nombre": "PLANCHA NEUMATICA 1 METRO X 80CM",
+                    "modelo": "MK-DAP-8010",
+                    "bandeja": "",
+                    "descripcion": "▪ Placa extraíble para cajón.<br>▪ Proporciona mayor seguridad mientras mantiene la naturaleza compacta.<br>▪ La placa calefactora de aluminio hace que la máquina sea mucho más fuerte.",
+                    "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                    "imagen": "https://i.postimg.cc/k4RsD1xz/2.png",
+                    "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                    "folleto": "https://cprmerida.educarex.es/manual.pdf" 
+                }
+            ],
+            "LAMINADORA": [
+                    {
+                        "id": 19,
+                        "nombre": "LAMINADORA 1700MM PRO",
+                        "modelo": "MF1700-M1 PRO",
+                        "bandeja": "",
+                        "descripcion": "▪ Sistema de entrada inteligente.<br>▪ Función de corte vertical.<br>▪ Eje intercambiable bloqueable automáticamente.",
+                        "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                        "imagen": "https://i.postimg.cc/7PdhKP4c/L-17.png",
+                        "video": "https://www.youtube.com/embed/3NMRCS0fx3I",
+                        "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                    },
+                    {
+                        "id": 20,
+                        "nombre": "LAMINADORA 1700MM",
+                        "modelo": "MF1700-M1 PLUS",
+                        "bandeja": "",
+                        "descripcion": "▪ Visualización de velocidad y temperatura.<br>▪ Fácil de verificar figuras de temperatura establecida.<br>▪ Rodillo arriba y abajo.",
+                        "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                        "imagen": "https://i.postimg.cc/x8hPdwWC/L-17-PRO.png",
+                        "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                    }
+            ],
+            "CALANDRA": [
+                    {
+                        "id": 21,
+                        "nombre": "CALANDRA 200 X 1700MM",
+                        "modelo": "CL-2017",
+                        "bandeja": "",
+                        "descripcion": "▪ Mesa de trabajo: 1.5m.<br>▪ Potencia: 6kw presiòn de trabajo: 0-8 KG/cm2.<br>▪ El hardware es de alta tecnologia.",
+                        "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                        "imagen": "https://i.postimg.cc/k4dTBWfy/CL-2017.png",
+                        "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                    },
+                    {
+                        "id": 22,
+                        "nombre": "CALANDRA 2710 X 1805MM",
+                        "modelo": "CL-27-18-30",
+                        "bandeja": "",
+                        "descripcion": "▪ Fuente de alimentacion dr 3 Fases 220V 380V / 3 Fase.<br>▪ Potenvia nominal 20KW.<br>▪ Material de rodillo Acero + teflón (juntas) interior aceite.",
+                        "descripcion_general":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio repellendus numquam distinctio quibusdam quo utiusto\n reprehenderit voluptas provident quidem, totam, blanditiis omnis eum aspernatur consequatur natus iure!",
+                        "imagen": "https://i.postimg.cc/5yg3MPV7/CL-2718.png",
+                        "folleto": "https://cprmerida.educarex.es/manual.pdf"
+                    }
+            ]
+        },
+        "insumos": {
+            "insumos_DTF": [
+                {
+                    "photo_general": "https://png.pngtree.com/thumb_back/fw800/background/20230424/pngtree-many-colorful-dyes-suspended-in-a-dark-background-image_2496031.jpg"
+                },
+                {
+                    "nombre": "Tinta black 1lt",
+                    "imagen": "https://i.postimg.cc/PJprbZJk/tinta-black-1litro.png"
+                },
+                {
+                    "nombre": "Tinta cyan 1lt",
+                    "imagen": "https://i.postimg.cc/BZr1YQ0C/tinta-cyan-1litro.png"
+                },
+                {
+                    "nombre": "Tinta magenta 1lt",
+                    "imagen": "https://i.postimg.cc/T3Y2QZp9/tinta-magenta-1litro.png"
+                },
+                {
+                    "nombre": "Tinta yellow 1lt",
+                    "imagen": "https://i.postimg.cc/vTtMtzyk/tinta-yellow-1litro.png"
+                },
+                {
+                    "nombre": "Tinta white 1lt",
+                    "imagen": "https://i.postimg.cc/mrHvSwNj/tinta-white-1litro.png"
+                },
+                {
+                    "nombre": "Poliamida 1lt",
+                    "imagen": "https://i.postimg.cc/ZKnks3rG/Poliamida-1lt.png"
+                },
+                {
+                    "nombre": "Petfilm 100mts",
+                    "imagen": "https://i.postimg.cc/brTz0hf1/Petfilm-100mts.png"
+                }
+            ],
+            "insumos_UV_DTF": [
+                {
+                    "photo_general": "https://img.lovepik.com/background/20211021/large/lovepik-background-of-technology-conference-for-color-and-image_400142499.jpg"
+                },
+                {
+                    "nombre": "Tinta black 1lt",
+                    "imagen": "https://i.postimg.cc/L8vMJyw5/black-uvdtf.png"
+                },
+                {
+                    "nombre": "Tinta cyan 1lt",
+                    "imagen": "https://i.postimg.cc/d1bbbgkH/cyan-uvdtf.png"
+                },
+                {
+                    "nombre": "Tinta magenta 1lt",
+                    "imagen": "https://i.postimg.cc/kM83QMzk/magenta-uvdtf.png"
+                },
+                {
+                    "nombre": "Tinta yellow 1lt",
+                    "imagen": "https://i.postimg.cc/tCj02QH7/yellow-uvdtf.png"
+                },
+                {
+                    "nombre": "Tinta white 1lt",
+                    "imagen": "https://i.postimg.cc/vHLJKqQh/white-uvdtf.png"
+                }
+            ],
+            "insumos_DTG":[
+                {
+                    "photo_general": "https://png.pngtree.com/background/20230410/original/pngtree-splash-ink-color-background-picture-image_2379618.jpg"
+                },
+                {
+                    "nombre": "Tinta black 1lt",
+                    "imagen": "https://i.postimg.cc/Y9MgdC8b/black-dtg.png"
+                },
+                {
+                    "nombre": "Tinta cyan 1lt",
+                    "imagen": "https://i.postimg.cc/Vs7MF1tW/cyan-dtg.png"
+                },
+                {
+                    "nombre": "Tinta magenta 1lt",
+                    "imagen": "https://i.postimg.cc/0jHw5dvB/magenta-dtg.png"
+                },
+                {
+                    "nombre": "Tinta yellow 1lt",
+                    "imagen": "https://i.postimg.cc/26GWMNKm/yellow-dtg.png"
+                },
+                {
+                    "nombre": "Tinta white 1lt",
+                    "imagen": "https://i.postimg.cc/3NwGHfsG/white-dtg.png"
+                },
+                {
+                    "nombre": "Liquido pretratamiento",
+                    "imagen": "https://i.postimg.cc/QxhjBny4/TINTA-PRETRATAMIENTO.png"
+                }
+            ],
+            "insumos_sublimacion": [
+                {
+                    "photo_general": "https://w0.peakpx.com/wallpaper/807/821/HD-wallpaper-water-paint-art-colour-explosion-ink-paint-water.jpg"
+                },
+                {
+                    "nombre": "Tinta black 1lt",
+                    "imagen": "https://i.postimg.cc/g2yKvtxm/tinta-black-1litro.png"
+                },
+                {
+                    "nombre": "Tinta cyan 1lt",
+                    "imagen": "https://i.postimg.cc/4NsvXb80/tinta-cyan-1litro.png"
+                },
+                {
+                    "nombre": "Tinta magenta 1lt",
+                    "imagen": "https://i.postimg.cc/SxLwJrqz/tinta-magenta-1litro.png"
+                },
+                {
+                    "nombre": "Tinta yellow 1lt",
+                    "imagen": "https://i.postimg.cc/J7Zwfmgq/tinta-yellow-1litro.png"
+                },
+                {
+                    "nombre": "Papel de sublimaciòn 1.60 cm",
+                    "imagen": "https://i.postimg.cc/NMHVkbJ1/papel-90cm.png"
+                },
+                {
+                    "nombre": "Papel de sublimaciòn 90 cm",
+                    "imagen": "https://i.postimg.cc/SK539HrS/papel-1-60cm.png"
+                }
+            ]
+        }   
+    }
+}
+
+
+
